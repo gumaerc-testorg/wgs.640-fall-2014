@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: eefc4b17-2871-075f-6d7f-b997317dd801
 ---
@@ -65,20 +67,6 @@ H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
 ### Offered
 
 WGS.640 is offered intermittently and is considered a special topics course about “Studies in Women’s Life Narratives.” The specific topic changes every time it is taught.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with 3 sliding chalkboards, seven rows of flat tables for students, a small table at the front for the instructor, and a ceiling-mounted projector.]({{< resource_file 3ed84129-8aa7-e5cc-2edd-5e0a27eb9197 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    The course was taught in a medium-sized classroom (capacity of 56) with chalkboards and a video projector. Students sat in several long rows of moveable desks and chairs, with a desk at the front for the instructors.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
