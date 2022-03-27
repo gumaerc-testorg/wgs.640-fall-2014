@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 86cab386-a769-cf73-879e-d734fbaba07d
 resourcetype: Document
 title: 'Passions, Property, and Power: Mexican-Anglo Marriage in the Spanish Borderlands'
 uid: a156ff70-6f66-9403-182d-0c078c024b5a
