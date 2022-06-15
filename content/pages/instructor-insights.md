@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: eefc4b17-2871-075f-6d7f-b997317dd801
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _WGS.640 Gender, Race, and the Construction of the American West_ as it was taught by Prof. Karen Hansen (Brandeis University), Prof. Marilynn Johnson (Boston College), and Prof. Lois Rudnick (UMass Boston) in Fall 2014.
 
@@ -16,22 +17,20 @@ This course explores how gender shaped the historical experiences and cultural p
 
 This course was a part of the [Graduate Consortium in Women’s Studies](http://mit.edu/gcws/).
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Gain an in-depth understanding of the multiple factors—social, economic, and political—that were instrumental in affecting the ways that gender shaped the historical experiences and cultural productions of the North American West during the time it was being explored, settled, and imagined.
-*   Use primary and secondary sources to examine gender identity and practices across racial-ethnic groups, geographic region, local economies, and class lines.
+- Gain an in-depth understanding of the multiple factors—social, economic, and political—that were instrumental in affecting the ways that gender shaped the historical experiences and cultural productions of the North American West during the time it was being explored, settled, and imagined.
+- Use primary and secondary sources to examine gender identity and practices across racial-ethnic groups, geographic region, local economies, and class lines.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "[The students] were supportive, inquisitive, energetic, and intensely engaged in the work at hand, which created a genuine and substantial collegial engagement among us all." "—Lois Rudnick" >}}
 
-_Below, Prof. Karen Hansen, Prof. Marilynn Johnson, and Prof. Lois Rudnick describe various aspects of how they taught _WGS.640 Gender, Race, and the Construction of the American West_._
+_Below, Prof. Karen Hansen, Prof. Marilynn Johnson, and Prof. Lois Rudnick describe various aspects of how they taught_ WGS.640 Gender, Race, and the Construction of the American West.
 
 ### Organizing Class Sessions to Include both Lectures and Student-led Discussions
 
@@ -53,8 +52,7 @@ The biggest challenge we faced in teaching this class was the range of student s
 
 The three of us have different academic backgrounds: Lois Rudnick in American Studies, Marilynn Johnson in U.S. History, and Karen Hansen in historical sociology. We each took primary responsibility for the readings in our areas of expertise, but we all participated each week in the discussions. We believe that having taught together before, revising the course, working to fix previous glitches, adding new up-to-date material, and the incredible trust, respect, and comfort level we had with one another, had a lot to do with our success.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -70,21 +68,20 @@ WGS.640 is offered intermittently and is considered a special topics course abou
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
 - 40% Class participation
 - 60% Research paper
 
+Read more of the instructors' thoughts on [assessing assignments and providing feedback](#insights).
 
-Read more of the instructors' thoughts on [assessing assignments and providing feedback](#insights) below.
+## Student Information
 
-Student Information
--------------------
+### Enrollment
 
-![10 students took this course when it was offered in Fall 2014.]({{< resource_file 6c2dda69-5c06-0d04-ef41-cb4fda250db4 >}})
+10 students
 
 ### Breakdown by Year
 
@@ -104,18 +101,15 @@ Around 10 to 15 students is the right size for this class. Ten students might be
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 1 time per week for 3 hours per session; 13 sessions total; mandatory attendance.
-*   Class time was divided between lectures and student-facilitated discussions.
+- Met 1 time per week for 3 hours per session; 13 sessions total; mandatory attendance.
+- Class time was divided between lectures and student-facilitated discussions.
 
-Out of Class
-------------
+### Out of Class
 
 Students spent their out-of-class time completing the weekly assigned readings and viewings, preparing discussion questions for their presentations, and working on their final projects.
