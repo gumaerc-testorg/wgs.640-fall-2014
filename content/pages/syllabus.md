@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, prerequisites, requirements, and required readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ea358bb4-d987-bd61-3116-a2c31de5357d
 ---
@@ -79,4 +83,4 @@ Lee, Mary Paik. _Quiet Odyssey: A Pioneer Korean Woman in America._ University o
 
 Silko, Leslie. _Ceremony._ Penguin Classics, 2006; repr. 1976. ISBN: 9780143104919. \[Preview with [Google Books](http://books.google.com/books?id=Kn_7gYiKWvoC&pg=PAfrontcover)\]
 
-See the [Readings]({{< baseurl >}}/pages/readings) section.
+See the {{% resource_link 7e04ae65-4c21-7c20-edc3-1eab0c2f3da7 "Readings" %}} section.
