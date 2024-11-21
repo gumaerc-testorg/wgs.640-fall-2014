@@ -60,7 +60,7 @@ Rowowski, Susan. *Cather Studies, Volume 5: Willa Cather's Ecological Imaginatio
 
 ## Week 5 The Borderlands
 
-Benton–Cohen, Catherine. "[Common Purposes, Worlds Apart: Mexican American, Mormon, and Midwestern Women Homesteaders in Cochise County, Arizona](http://connection.ebscohost.com/c/articles/19409031/common-purposes-worlds-apart-mexican-american-mormon-midwestern-women-homesteaders-cochise-county-arizona)." *Western Historical Quarterly* 36, no. 4 (2005): 429–52.
+Benton–Cohen, Catherine. "[Common Purposes, Worlds Apart: Mexican American, Mormon, and Midwestern Women Homesteaders in Cochise County, Arizona](https://www.jstor.org/stable/25443235?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A4eeccefb20958bf1833d51eb2402e06f&seq=4)." *Western Historical Quarterly* 36, no. 4 (2005): 429–52.
 
 Delgado, Grace Pena. "[Border Control and Sexual Policing: White Slavery and Prostitution along the US–Mexico Borderlands, 1903–1910](http://www.jstor.org/stable/westhistquar.43.2.0157)." *Western Historical Quarterly* 43, no. 2 (2012): 157–78.
 
