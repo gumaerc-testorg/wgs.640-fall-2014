@@ -20,7 +20,7 @@ KEY DATES
 
 Introduction and Overview of the Course
 
-Film: [*Nobody's Girls: Five Women of the American West*](http://www.paleycenter.org/collection/item/?q=cloris+leachman&p=4&item=T:38440)*.* PBS. Produced by Mirra Bank. May 12, 1995. 
+Film: {{% resource_link "08b04bbe-4916-48e3-8368-ad6c00e9d200" "*Nobody's Girls: Five Women of the American West*" %}}*.* PBS. Produced by Mirra Bank. May 12, 1995. 
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -54,7 +54,7 @@ The Borderlands
 
 Challenges to Gender and Sexuality
 
-Film: [*Ballad of Little Jo*](http://www.imdb.com/title/tt0106350/)*.* DVD. Directed by Maggie Greenwald. 1993. Polygram Filmed Entertainment. 
+Film: {{% resource_link "dc8049ef-d873-4d47-b9de-f72fc96ac5f3" "*Ballad of Little Jo*" %}}*.* DVD. Directed by Maggie Greenwald. 1993. Polygram Filmed Entertainment. 
 
 {{< tdclose >}}{{< tdopen >}}
 Prospectus and short bibliography for final paper due
@@ -70,7 +70,7 @@ Immigration, Migration, and Farm Labor on the West Coast
 
 Women, Politics, and The Radical West
 
-Film: [*Salt of the Earth*](http://www.imdb.com/title/tt0047443/)*.* DVD and streaming. Directed by Herbert J. Biberman. 1954. Independent Production Company. 
+Film: {{% resource_link "88ca5022-7fcc-4493-95f9-ff3f1599cd47" "*Salt of the Earth*" %}}*.* DVD and streaming. Directed by Herbert J. Biberman. 1954. Independent Production Company. 
 
 {{< tdclose >}}{{< tdopen >}}
  
