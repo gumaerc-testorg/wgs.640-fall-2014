@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: A photograph of a young Pomo woman taken between 1896 and 1924. The Pomo
     are a Native American group from Northern California. (Image by Edward S. Curtis
-    from the [George Eastman House](https://www.flickr.com/photos/george_eastman_house/3333251389/in/set-72157614812011773)
-    Collection. Image is in the public domain.)
+    from the {{% resource_link "ec3e4204-81ae-4b02-87ad-9342844ac36d" "George Eastman
+    House" %}} Collection. Image is in the public domain.)
   credit: Image by Edward S. Curtis from the George Eastman House Collection. Image
     is in the public domain.
   image-alt: A sepia-toned photograph of a Native American young woman.  She has beaded
