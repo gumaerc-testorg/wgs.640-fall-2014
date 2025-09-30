@@ -16,7 +16,7 @@ Seminar: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-Application to the [Graduate Consortium in Women's Studies](http://mit.edu/gcws/).
+Application to the {{% resource_link "2aa6457b-7fc8-4720-84b9-79f7bffde5c8" "Graduate Consortium in Women's Studies" %}}.
 
 Overview
 --------
@@ -67,20 +67,20 @@ Research Paper
 Required Readings
 -----------------
 
-Babb, Sanora. _Whose Names Are Unknown._ University of Oklahoma Press, 2006. ISBN: 9780806137124. \[Preview with [Google Books](http://books.google.com/books?id=jDbIymSFFxoC&pg=PAfrontcover)\]
+Babb, Sanora. _Whose Names Are Unknown._ University of Oklahoma Press, 2006. ISBN: 9780806137124. \[Preview with {{% resource_link "8cd50768-4606-45c2-bd8b-e4e9da6c4e13" "Google Books" %}}\]
 
-Bernardin, Susan, Melody Graulich, et al. _Trading Gazes: Euro-American Women Photographers and Native North Americans, 1880–1940_. Rutgers University Press, 2003. \[Preview with [Google Books](http://books.google.com/books?id=FAZ43yXhTfIC&pg=PAfrontcover)\]
+Bernardin, Susan, Melody Graulich, et al. _Trading Gazes: Euro-American Women Photographers and Native North Americans, 1880–1940_. Rutgers University Press, 2003. \[Preview with {{% resource_link "4ba54725-845c-4662-aef2-d52a656312f2" "Google Books" %}}\]
 
-Calof, Rachel. _Rachel Calof's Story: Jewish Homesteader on the Northern Plains._ Indiana University Press, 1995; repr. 1936. ISBN: 9780253209863. \[Preview with [Google Books](http://books.google.com/books?id=8vPMfQMJZDIC&pg=PAfrontcover)\]
+Calof, Rachel. _Rachel Calof's Story: Jewish Homesteader on the Northern Plains._ Indiana University Press, 1995; repr. 1936. ISBN: 9780253209863. \[Preview with {{% resource_link "422f0afd-757b-454e-8a6f-012415ca3574" "Google Books" %}}\]
 
 Cather, Willa. _My Antonia._ Edited by Joseph R. Urgo. Broadview Press, 2003. ISBN: 9781551114910.
 
-Gordon, Linda. _The Great Arizona Orphan Abduction_. Harvard University Press, 2003. ISBN: 97806743600419. \[Preview with [Google Books](http://books.google.com/books?id=idF6uaGHdoMC&pg=PAfrontcover)\]
+Gordon, Linda. _The Great Arizona Orphan Abduction_. Harvard University Press, 2003. ISBN: 97806743600419. \[Preview with {{% resource_link "603dfb1f-faec-4041-8101-28a4c4f4b8fc" "Google Books" %}}\]
 
-Hansen, Karen V. _Encounter on the Great Plains: Scandinavian Settlers and the Dispossession of Dakota Indians, 1890–1930_. Oxford University Press, 2013. ISBN: 9780199746811. \[Preview with [Google Books](http://books.google.com/books?id=-dPiAAAAQBAJ&pg=PAfrontcover)\]
+Hansen, Karen V. _Encounter on the Great Plains: Scandinavian Settlers and the Dispossession of Dakota Indians, 1890–1930_. Oxford University Press, 2013. ISBN: 9780199746811. \[Preview with {{% resource_link "cd6042ed-00d7-4f20-87b9-75262d99f779" "Google Books" %}}\]
 
-Lee, Mary Paik. _Quiet Odyssey: A Pioneer Korean Woman in America._ University of Washington Press, 1990. ISBN: 9780295969695. \[Preview with [Google Books](http://books.google.com/books?id=BM0lAP0TdUMC&pg=PAfrontcover)\]
+Lee, Mary Paik. _Quiet Odyssey: A Pioneer Korean Woman in America._ University of Washington Press, 1990. ISBN: 9780295969695. \[Preview with {{% resource_link "7add05e3-1318-427c-8dc9-c8b070be7b06" "Google Books" %}}\]
 
-Silko, Leslie. _Ceremony._ Penguin Classics, 2006; repr. 1976. ISBN: 9780143104919. \[Preview with [Google Books](http://books.google.com/books?id=Kn_7gYiKWvoC&pg=PAfrontcover)\]
+Silko, Leslie. _Ceremony._ Penguin Classics, 2006; repr. 1976. ISBN: 9780143104919. \[Preview with {{% resource_link "4694a48a-1f52-49e0-9944-02be44829087" "Google Books" %}}\]
 
 See the {{% resource_link 7e04ae65-4c21-7c20-edc3-1eab0c2f3da7 "Readings" %}} section.
