@@ -15,7 +15,7 @@ This page focuses on the course _WGS.640 Gender, Race, and the Construction of t
 
 This course explores how gender shaped the historical experiences and cultural productions in the North American West during the time it was being explored, settled, and imagined.
 
-This course was a part of the {{% resource_link "2aa6457b-7fc8-4720-84b9-79f7bffde5c8" "Graduate Consortium in Women’s Studies" %}}.
+This course was a part of the [Graduate Consortium in Women’s Studies](http://mit.edu/gcws/).
 
 ## Course Outcomes
 
@@ -56,7 +56,7 @@ The three of us have different academic backgrounds: Lois Rudnick in American St
 
 ### Prerequisites
 
-Students must apply to the {{% resource_link "2aa6457b-7fc8-4720-84b9-79f7bffde5c8" "Graduate Consortium in Women’s Studies" %}}.
+Students must apply to the [Graduate Consortium in Women’s Studies](http://mit.edu/gcws/).
 
 ### Requirements Satisfied
 
